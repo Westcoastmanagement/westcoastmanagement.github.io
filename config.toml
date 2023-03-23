@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://rekindledigital.github.io/westcoast/'
 languageCode = 'en'
 title = 'West Coast Management'
 theme = 'universal'
