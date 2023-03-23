@@ -1,0 +1,5 @@
+weight: 2
+name: "service 2"
+icon: "fas fa-lightbulb"
+url: "/services/#service-2"
+description: "description 1"

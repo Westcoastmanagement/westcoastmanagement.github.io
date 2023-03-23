@@ -1,0 +1,106 @@
+baseURL = 'http://example.org/'
+languageCode = 'en'
+title = 'West Coast Management'
+theme = 'universal'
+
+# googleAnalytics = "UA-XXXXX-X"
+
+[params]
+    disabled_logo = false
+    title = "West Coast Management"
+    logo_text = "Westcoast Management"
+
+    logo = "img/logo.webp"
+    logo_small = "img/logo.webp"
+
+    copyright = "Copyright (c) 2023, West Coast Management Ltd.; All Rights Reserved."
+
+    date_format = "02 Jan 2006"
+
+    style = 'green' 
+
+
+# top bar
+[params.topbar]
+    enable = true
+    text = "<p>Contact us on +420 777 555 333 or hr@westcoastmanagement.co.nz</p>"
+    
+[[menu.topbar]]
+    weight = 1
+    name = "Facebook"
+    url = "https://www.facebook.com/westcoastmanagementltd"
+    pre = "<i class='fab fa-2x fa-facebook'></i>"
+
+
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "About"
+    identifier = "menu.about"
+    url        = "/about/"
+    weight     = 2
+
+#[[menu.main]]
+#    name       = "Contact"
+#    identifier = "menu.contact"
+#    url        = "/"
+#    weight     = 3
+
+[[menu.main]]
+    name       = "Services"
+    identifier = "menu.services"
+    url        = "/services/"
+    weight     = 4
+
+[[menu.main]]
+    name       = "Career"
+    identifier = "menu.Career"
+    url        = "/career/"
+    weight     = 5
+
+[[menu.main]]
+    name       = "FAQ"
+    identifier = "menu.faq"
+    url        = "/faq/"
+    weight     = 6
+
+#[[menu.main]]
+#    name       = "All Pages"
+#    identifier = "menu.allpages"
+#    url        = ""
+#    weight     = 4
+#
+#[[menu.main]]
+#    name       = "Home"
+#    identifier = "section.ap-home"
+#    url        = ""
+#    weight     = 1
+#    parent     = "menu.allpages"
+#    post       = 1
+
+#carousel setting here 
+[params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+# Services icon go here
+[params.features]
+    enable = true
+    cols = 3
+    link_url = "/services"
+    link_text = "see more ..."
+
+# Recent Article go here
+summaryLength = 70
+
+[params.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = "Sharing is caring!"
+    hide_summary = false
