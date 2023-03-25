@@ -8,7 +8,7 @@ theme = 'universal'
 [params]
     disabled_logo = false
     title = "West Coast Management Ltd"
-    logo_text = "Westcoast Management Ltd"
+    logo_text = "West Coast Management Ltd"
 
     logo = "img/logo.webp"
     logo_small = "img/logo.webp"
@@ -23,7 +23,7 @@ theme = 'universal'
 # top bar
 [params.topbar]
     enable = true
-    text = "<p>Contact us on +420 777 555 333 or hr@westcoastmanagement.co.nz</p>"
+    text = "<p>Contact us on FB Page or hr@westcoastmanagement.co.nz</p>"
     
 [[menu.topbar]]
     weight = 1
@@ -44,18 +44,18 @@ theme = 'universal'
     url        = "/about/"
     weight     = 2
 
-#[[menu.main]]
-#    name       = "Contact"
-#    identifier = "menu.contact"
-#    url        = "/"
-#    weight     = 3
-
 [[menu.main]]
     name       = "Services"
     identifier = "menu.services"
     url        = "/services/"
-    weight     = 4
+    weight     = 3
 
+[[menu.main]]
+    name       = "Resources"
+    identifier = "menu.resources"
+    url        = "/resources/"
+    weight     = 4
+    
 [[menu.main]]
     name       = "Career"
     identifier = "menu.Career"
@@ -63,9 +63,9 @@ theme = 'universal'
     weight     = 5
 
 [[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
-    url        = "/faq/"
+    name       = "Contact Us"
+    identifier = "menu.contact us"
+    url        = "/contact us/"
     weight     = 6
 
 #[[menu.main]]
