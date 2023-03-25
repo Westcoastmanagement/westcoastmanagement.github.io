@@ -1,14 +1,14 @@
 baseURL = 'https://minimalzac.github.io/'
 languageCode = 'en'
-title = 'West Coast Management'
+title = 'West Coast Management Ltd'
 theme = 'universal'
 
 # googleAnalytics = "UA-XXXXX-X"
 
 [params]
     disabled_logo = false
-    title = "West Coast Management"
-    logo_text = "Westcoast Management"
+    title = "West Coast Management Ltd"
+    logo_text = "Westcoast Management Ltd"
 
     logo = "img/logo.webp"
     logo_small = "img/logo.webp"
