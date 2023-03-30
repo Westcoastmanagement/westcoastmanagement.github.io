@@ -33,6 +33,10 @@ div.panel-body span li{
     fill: #6AAE7A;
 }
 
+hr{
+    color: #6AAE7A;
+    border-top: 1px solid#6AAE7A;
+}
 /* Style the Image Used to Trigger the Modal */
 #myImg {
     border-radius: 5px;

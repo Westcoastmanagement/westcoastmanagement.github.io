@@ -10,8 +10,8 @@ theme = 'universal'
     title = "West Coast Management Ltd"
     logo_text = "West Coast Management Ltd"
 
-    logo = "img/logo.webp"
-    logo_small = "img/logo.webp"
+    logo = "img/logo-large.png"
+    logo_small = "img/logo-large.png"
 
     copyright = "Copyright (c) 2023, West Coast Management Ltd.; All Rights Reserved."
 
