@@ -29,6 +29,14 @@ div.panel-body span li{
 
 }
 
+body{
+    background-color: #f3fff4;
+}
+
+.bar.background-custom {
+    background: #f3fff4;
+  }
+
 .shape-fill {
     fill: #6AAE7A;
 }
