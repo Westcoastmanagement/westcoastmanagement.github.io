@@ -1,5 +1,5 @@
 weight: 1
-name: "service 1"
-icon: "fas fa-lightbulb"
+name: "Orchard Management"
+icon: "fas fa-tree"
 url: "/services/#service-1"
-description: "description 1"
+description: "Tasks such as planting, pruning, irrigation, pest management, harvesting, and marketing of kiwifruit crops."

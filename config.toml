@@ -57,16 +57,22 @@ theme = 'universal'
     weight     = 4
     
 [[menu.main]]
+    name       = "Gallery"
+    identifier = "menu.gallery"
+    url        = "/gallery/"
+    weight     = 5
+
+[[menu.main]]
     name       = "Career"
     identifier = "menu.Career"
     url        = "/career/"
-    weight     = 5
+    weight     = 6
 
 [[menu.main]]
     name       = "Contact Us"
     identifier = "menu.contact us"
-    url        = "/contact us/"
-    weight     = 6
+    url        = "/contact-us/"
+    weight     = 7
 
 #[[menu.main]]
 #    name       = "All Pages"
@@ -92,7 +98,7 @@ theme = 'universal'
 # Services icon go here
 [params.features]
     enable = true
-    cols = 3
+    cols = 4
     link_url = "/services"
     link_text = "see more ..."
 

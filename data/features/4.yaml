@@ -1,5 +1,5 @@
 weight: 4
-name: "service 4"
-icon: "fas fa-lightbulb"
+name: "Machinery Hire"
+icon: "fas fa-hammer"
 url: "/services/#service-4"
-description: "description 4"
+description: "Provides equipment and machinery for use in various aspects of kiwifruit production and orchard management."
