@@ -19,6 +19,8 @@ theme = 'universal'
 
     style = 'green' 
 
+    fb_page_id = '131252103202961'
+
 
 # top bar
 [params.topbar]
