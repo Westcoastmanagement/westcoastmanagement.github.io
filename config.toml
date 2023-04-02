@@ -3,7 +3,7 @@ languageCode = 'en'
 title = 'West Coast Management Ltd'
 theme = 'universal'
 
-# googleAnalytics = "UA-XXXXX-X"
+googleAnalytics = "G-LKP9YRZB5Z"
 
 [params]
     disabled_logo = false
@@ -19,7 +19,7 @@ theme = 'universal'
 
     style = 'green' 
 
-    fb_page_id = '131252103202961'
+    fb_page_id = '107277065472029'
 
 
 # top bar
