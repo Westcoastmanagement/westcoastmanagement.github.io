@@ -1,81 +1,48 @@
 +++
-title = "Hugo is for lovers"
-date = "2015-08-03T13:39:46+02:00"
-tags = ["hugo"]
+title = "NZKGI 2023 AGM"
+date = "2023-07-01T13:39:46+02:00"
+tags = ["NZKGI"]
 categories = ["pseudo"]
 banner = "img/kiwi1.jpg"
-summary="This is the summary Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at [installing hugo](/overview/installing/)"
+summary="The NZKGI Annual General Meeting will be held at 11:00am on <b>Wednesday, 23 August 2023</b> at Mercury Arena, 81 Truman Lane, Mount Maunganui."
 +++
 
-## Step 1. Install Hugo
+## This article shared from [here](https://www.nzkgi.org.nz/agm-2023/#article).
 
-Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
-appropriate version for your os and architecture.
+The NZKGI Annual General Meeting will be held at 11:00am on Wednesday, 23 August 2023 at Mercury Arena, 81 Truman Lane, Mount Maunganui.
 
-Save it somewhere specific as we will be using it in the next step.
+09:00am	KVH AGM
+10:00am	Morning tea
+10:30am	Presentation by Dr John Roche, Chief Science Adviser, MPI on the future of food and policy
+11:00am	NZKGI AGM
+12:15am	Bagged lunch available
+1:00pm	Zespri AGM
+3:00pm	Zespri nibbles and drinks
+ 
 
-More complete instructions are available at [installing hugo](/overview/installing/)
+The voting period for the AGM Resolutions is from Tuesday, 1 August until 5pm, Wednesday, 23 August 2023.
 
-## Step 2. Build the Docs
+This year growers with email addresses will be sent their voting packs via email as a cost saving measure. Growers may vote prior to the AGM by casting an internet vote.
 
-Hugo has its own example site which happens to also be the documentation site
-you are reading right now.
+To cast your vote online you will need to refer to the voting documentation sent to you via email at the beginning of August. This email will contain your login details required to vote. Online voting closes at 5pm on Tuesday 22 August 2023. 
 
-Follow the following steps:
+Growers who have received the email with their login details and voting entitlements can place their vote on the electoral website here: https://ivote.electionz.com/e/NZKGI2023
 
- 1. Clone the [hugo repository](http://github.com/spf13/hugo)
- 2. Go into the repo
- 3. Run hugo in server mode and build the docs
- 4. Open your browser to http://localhost:1313
+If you have any queries or concerns about your voting entitlement call Electionz toll free on 0800 EZVOTE (0800 398 683)
 
-Corresponding pseudo commands:
+To RSVP for the AGM for catering purposes, please contact NZKGI on toll free 0800 232 505 or email info@nzkgi.org.nz.
 
-    git clone https://github.com/spf13/hugo
-    cd hugo
-    /path/to/where/you/installed/hugo server --source=./docs
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Press ctrl+c to stop
-
-Once you've gotten here, follow along the rest of this page on your local build.
-
-## Step 3. Change the docs site
-
-Stop the Hugo process by hitting ctrl+c.
-
-Now we are going to run hugo again, but this time with hugo in watch mode.
-
-    /path/to/hugo/from/step/1/hugo server --source=./docs --watch
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Watching for changes in /Users/spf13/Code/hugo/docs/content
-    > Press ctrl+c to stop
+    > To view the 2023 AGM Agenda and Explanatory notes, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/NZKGI-2023-AGM- Agenda-and-Explanatory-Notes-v4.pdf).
+    > To view the 2023 Annual Report, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/NZKGI_Annual-Report_2023_DIGITAL.pdf).
+    > To view the Special Purpose Financial Statements, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/2022-Special-Purpose-Financial-Statements-NZKGI-Signed-1.pdf).
+    > To view the NZKGI 2022 AGM results, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2022/08/NZKGI-Final-Results-2022-AGM_Final.pdf).
+    > To view the NZKGI 2022 Annual Report, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2022/07/VIL22556-PO-0657-NZKGI-AR2022_FA-web.pdf).
+    > To view the NZKGI 2022 AGM Explanatory Notes and Agenda, [click here}(https://www.nzkgi.org.nz/wp-content/uploads/2022/07/NZKGI-2022-AGM-Agenda-and-Explanatory-Notes-v4.pdf).
 
 
-Open your [favorite editor](http://vim.spf13.com) and change one of the source
-content pages. How about changing this very file to *fix the typo*. How about changing this very file to *fix the typo*.
 
-Content files are found in `docs/content/`. Unless otherwise specified, files
-are located at the same relative location as the url, in our case
-`docs/content/overview/quickstart.md`.
 
-Change and save this file.. Notice what happened in your terminal.
 
-    > Change detected, rebuilding site
 
-    > 29 pages created
-    > 0 tags index created
-    > in 26 ms
+   
 
-Refresh the browser and observe that the typo is now fixed.
-
-Notice how quick that was. Try to refresh the site before it's finished building.. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
-
-## Step 4. Have fun
-
-The best way to learn something is to play with it.
