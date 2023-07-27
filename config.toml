@@ -25,7 +25,7 @@ googleAnalytics = "G-LKP9YRZB5Z"
 # top bar
 [params.topbar]
     enable = true
-    text = "<p>Contact us on FB Page or hr@westcoastmanagement.co.nz</p>"
+    text = "<p>Contact us on hr@westcoastmanagement.co.nz</p>"
     
 [[menu.topbar]]
     weight = 1
@@ -109,6 +109,6 @@ summaryLength = 70
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Sharing is caring!"
+    title = "News and Update"
+    subtitle = ""
     hide_summary = false
