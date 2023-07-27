@@ -20,12 +20,19 @@ Two sets of modules are available and are aimed at the audience types: employees
 Each audience type can access modules covering these 8 subjects (with content tailored for that employer/employee audience):
 
    <br>NEW - An introduction to your employment obligations</br>
+   
    <br>Working arrangements</br>
+   
    <br>Employment agreements</br>
+   
    <br>Annual leave/Holidays</br>
+   
    <br>Other leave</br>
+   
    <br>Pay and wages</br>
+   
    <br>Hours of work</br>
+   
    <br>Resolving Problems</br>
 
 
