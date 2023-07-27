@@ -3,7 +3,7 @@ title = "NZKGI 2023 AGM"
 date = "2023-07-01T13:39:46+02:00"
 tags = ["NZKGI"]
 categories = ["pseudo"]
-banner = "img/kiwi1.jpg"
+banner = "img/nzkgi1.png"
 summary="The NZKGI Annual General Meeting will be held at 11:00am on <b>Wednesday, 23 August 2023</b> at Mercury Arena, 81 Truman Lane, Mount Maunganui."
 +++
 
