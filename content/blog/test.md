@@ -32,9 +32,12 @@ If you have any queries or concerns about your voting entitlement call Electionz
 
 To RSVP for the AGM for catering purposes, please contact NZKGI on toll free 0800 232 505 or email info@nzkgi.org.nz.
 
-     To view the 2023 AGM Agenda and Explanatory notes, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/NZKGI-2023-AGM- Agenda-and-Explanatory-Notes-v4.pdf)
-     To view the 2023 Annual Report, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/NZKGI_Annual-Report_2023_DIGITAL.pdf)
-     To view the Special Purpose Financial Statements, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/2022-Special-Purpose-Financial-Statements-NZKGI-Signed-1.pdf)
+     To view the 2023 AGM Agenda and Explanatory notes, 
+     [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/NZKGI-2023-AGM- Agenda-and-Explanatory-Notes-v4.pdf)
+     To view the 2023 Annual Report, 
+     [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/NZKGI_Annual-Report_2023_DIGITAL.pdf)
+     To view the Special Purpose Financial Statements, 
+     [click here](https://www.nzkgi.org.nz/wp-content/uploads/2023/07/2022-Special-Purpose-Financial-Statements-NZKGI-Signed-1.pdf)
      To view the NZKGI 2022 AGM results, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2022/08/NZKGI-Final-Results-2022-AGM_Final.pdf)
      To view the NZKGI 2022 Annual Report, [click here](https://www.nzkgi.org.nz/wp-content/uploads/2022/07/VIL22556-PO-0657-NZKGI-AR2022_FA-web.pdf)
      To view the NZKGI 2022 AGM Explanatory Notes and Agenda, [click here}(https://www.nzkgi.org.nz/wp-content/uploads/2022/07/NZKGI-2022-AGM-Agenda-and-Explanatory-Notes-v4.pdf)
